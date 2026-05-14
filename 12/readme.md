@@ -2,5 +2,5 @@
 今日は VSCode で Git 操作を練習します。
 Magway Taungdwin gyi township
 yangon
-Tod
-誰何しました
+tomorrow
+誰何しましたgitgitgi
